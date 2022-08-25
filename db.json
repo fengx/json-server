@@ -1,16 +1,26 @@
 {
-  "posts":[
+  "matched_deals": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "title": "Great deal on iPad",
+      "description": "Great deal on iPad",
+      "url": "https://www.google.com"
+    },
+    {
+      "id": 2,
+      "title": "Great deal #2, Pixcel",
+      "description": "Great deal on Google Pixel",
+      "url": "https://www.google.com"
+    },
+    {
+      "id": 3,
+      "title": "Great deal #3, laptop",
+      "description": "Great deal on laptop",
+      "url": "https://www.google.com"
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "deal_keywords": [
+    { "id": 1, "key": "laptop" },
+    { "id": 2, "key": "phone" }
   ]
 }

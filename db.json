@@ -20,7 +20,7 @@
     }
   ],
   "deal_keywords": [
-    { "id": 1, "key": "laptop" },
-    { "id": 2, "key": "phone" }
+    { "id": 1, "keyword": "laptop" },
+    { "id": 2, "keyword": "phone" }
   ]
 }
